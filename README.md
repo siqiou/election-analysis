@@ -1,4 +1,4 @@
-# election-analysis
+# Election-analysis
 Module 3 challenge
 ## Overview of Election Audit
 The purpose of this analysis is to help Seth and Tom dig deeper into the election data, present insights to the election commission on the following:
@@ -26,3 +26,7 @@ This will give a clear picture on who are the popular candidates, which county h
   - Diana DeGette won the election, she received 272, 892 votes, 73.8% of the total votes.
 
 ## Election Audit Summary
+There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script. 
+- This script could be useful for analyzing the votes of each county, and pull the data for the best candidates. Example for modifying the script could be"
+- 1. Add a code to extract the percentage of votes in all counties, this will give a clear picture on how many people are engaged in an election.
+- 2. Pull all candidate data by county, this will show the commission who are top candidates, and will give audience a better idea on who they are and what are their proposals ahead of time. People can make better choices if they have more information.
